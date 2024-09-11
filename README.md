@@ -42,9 +42,6 @@ Truffle requires node version 16 or higher. The node version on my machine on wh
     ```sh
     npm install -g truffle
     ```
-    ```sh
-    npm install -g ganache-cli
-    ```
 
 - **Python packages**  
     In the project's root directory, exececute the command:
