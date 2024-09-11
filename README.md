@@ -63,7 +63,7 @@ Truffle requires node version 16 or higher. The node version on my machine on wh
     FIREBASE_APP_ID
     ```
 
-- **Pinata account setup**  
+- **Pinata account setup**  (Unique Web3 software platform)
     Create an account on [Pinata](https://app.pinata.cloud/). Go to the API keys section and generate a new key. Note the API key and secret key in .env file.
 
 - **.env file**  
